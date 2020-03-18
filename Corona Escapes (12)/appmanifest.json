@@ -1,0 +1,16 @@
+{
+	"name": "Corona Escapes",
+	"short_name": "Corona Escapes",
+	"description": "Aiuta il Dottor J. e i suoi amici a Sconfiggere il CoronaVirus COVID-19, Attraversa città schiva tubi spara al COVID-19 e Raccogli L'antidoto; Colleziona gli antidoti che prossimamente potranno essere scambiati con fantastici Premi",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
